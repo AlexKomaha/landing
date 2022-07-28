@@ -1,0 +1,20 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #012BBA;opacity:0.8;
+}
+
+.footer a {
+  font-size: 30px;
+  color: red;
+  font-family: Open Sans;
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+}
+
+.footer p {
+  font-size: 30px;
+  color: white;
+  font-family: Open Sans;
+  text-shadow: 1px 1px 3px rgb(0, 0, 0);
+
+}

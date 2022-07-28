@@ -1,0 +1,27 @@
+
+
+.banner {
+  background-image: url("sonic_adventure_2_sonic_wallpaper_by_sonicthehedgehogbg_d62yoiu-pre.jpeg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.btn-primary {
+  display: inline-block;
+  background-color: #ff0037;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+
+
+.banner p {
+  text-shadow: 1px 1px 2px rgb(0, 0, 0);
+  font-size: 20px;
+}
